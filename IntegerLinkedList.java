@@ -1,5 +1,5 @@
 /* 
-Author: Harrison Toppen-Ryan
+Author: Harrison Toppen
 Description : Lab 5, CSCI 145
 Date: Febuary 23rd, 2021
 */
